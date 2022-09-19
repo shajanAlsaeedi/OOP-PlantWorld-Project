@@ -361,7 +361,7 @@ public class FinalProjectShajanAlsaeedi {
         
         
                          /** MY PROGRAM END .. THANKS */
-           /** Shajan Abdulkhaliq Alsaeedi | ID: 2006312 | section: A2L. */
+                        /** Shajan Abdulkhaliq Alsaeedi */
                          
 
           
